@@ -8,7 +8,10 @@ Trabalho remotamente em um fintech chamada Dinheirow como desenvolvedor front-en
 Javascript é minha stack principal, para web, back-end e mobile, portanto é minha maior fonte de estudos, mas também me interesso por tecnologias como Java e Flutter.
 
 ### 📫 Como me encontrar...
-Você pode entrar em contato comigo pelo meu e-mail: alessandro.perez@etec.sp.gov.br ou alessandro.fresneda84@gmail.com
+Você pode entrar em contato comigo das seguintes formas mágicas: 
+1. E-mail: alessandro.perez@etec.sp.gov.br
+2. E-mail: alessandro.fresneda84@gmail.com
+3. LinkedIn: https://www.linkedin.com/in/alessandro-rodrigo-99a296139/
 
 <!--
 **AlessandroRodrigo/AlessandroRodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
