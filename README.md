@@ -9,9 +9,9 @@ Javascript é minha stack principal, para web, back-end e mobile, portanto é mi
 
 ### 📫 Como me encontrar...
 Você pode entrar em contato comigo das seguintes formas mágicas: 
-1. E-mail: alessandro.perez@etec.sp.gov.br
-2. E-mail: alessandro.fresneda84@gmail.com
-3. LinkedIn: https://www.linkedin.com/in/alessandro-rodrigo-99a296139/
+- E-mail: alessandro.perez@etec.sp.gov.br
+- E-mail: alessandro.fresneda84@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alessandro-rodrigo-99a296139/
 
 <!--
 **AlessandroRodrigo/AlessandroRodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
