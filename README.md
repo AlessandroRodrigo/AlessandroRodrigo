@@ -1,14 +1,14 @@
 # Olá, eu me chamo Alessandro Rodrigo 👋
-Moro no Brasil, tenho 20 anos e sou desenvolvedor pleno na stack javascript, trabalho com front-end (Também domino back-end, somente não exerço no meu emprego atual), web, mobile e também me arrisco em desenvolvimento de UI. Vez ou outra eu faço algum _side project_ com tecnologias como Java (Spring Boot). Estou sempre interessado em aprender mais.
+Moro no Brasil, tenho 21 anos e atualmente sou tech lead front-end, meu foco é front-end, mas também domino back-end, somente não exerço no meu emprego atual. Vez ou outra eu faço algum _side project_ com tecnologias como Java (Spring Boot) ou Flutter. Estou sempre interessado em aprender mais.
 
 ### 🔭 Trabalhando atualmente...
-Trabalho remotamente em um fintech chamada Dinheirow como desenvolvedor front-end (VueJS e ReactJS), em uma equipe muito bem humorada.
+Trabalho remotamente em um fintech chamada Dinheirow como tech lead front-end (VueJS e ReactJS), em uma equipe muito bem humorada.
 
 ### 🌱 Aprendendo atualmente...
-Javascript é minha stack principal, para web, back-end e mobile, portanto é minha maior fonte de estudos, mas também me interesso por tecnologias como Java e Flutter.
+Javascript é minha stack principal, para web, back-end e mobile, portanto é minha maior fonte de estudos, mas também me interesso por tecnologias como Java e Flutter, como supracitado.
 
 ### 📫 Como me encontrar...
-Você pode entrar em contato comigo das seguintes formas mágicas: 
+Você pode entrar em contato comigo das seguintes formas:
 - E-mail: alessandro.perez@etec.sp.gov.br
 - E-mail: alessandro.fresneda84@gmail.com
 - LinkedIn: https://www.linkedin.com/in/alessandro-rodrigo-99a296139/
