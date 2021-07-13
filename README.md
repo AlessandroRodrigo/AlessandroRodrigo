@@ -2,7 +2,7 @@
 Moro no Brasil, tenho 21 anos e atualmente sou tech lead front-end, meu foco é front-end, mas também domino back-end, somente não exerço no meu emprego atual. Vez ou outra eu faço algum _side project_ com tecnologias como Java (Spring Boot) ou Flutter. Estou sempre interessado em aprender mais.
 
 ### 🔭 Trabalhando atualmente...
-Trabalho remotamente em um fintech chamada Dinheirow como tech lead front-end (VueJS e ReactJS), em uma equipe muito bem humorada.
+Trabalho remotamente na companhia Stone Co. Atuo como front-end no time de POS (_Point of Sale_) utilizando as tecnologias mais recentes do mercado.
 
 ### 🌱 Aprendendo atualmente...
 Javascript é minha stack principal, para web, back-end e mobile, portanto é minha maior fonte de estudos, mas também me interesso por tecnologias como Java e Flutter, como supracitado.
