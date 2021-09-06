@@ -9,7 +9,6 @@ Javascript é minha stack principal, para web, back-end e mobile, portanto é mi
 
 ### 📫 Como me encontrar...
 Você pode entrar em contato comigo das seguintes formas:
-- E-mail: alessandro.perez@etec.sp.gov.br
 - E-mail: alessandro.fresneda84@gmail.com
 - LinkedIn: https://www.linkedin.com/in/alessandro-rodrigo-99a296139/
 
