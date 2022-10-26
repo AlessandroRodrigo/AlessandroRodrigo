@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **react, vue, svelte and best practices in frontend**
+- 💬 Ask me about **react, vue, svelte, best practices, patterns and architectures**
 
 - 📫 How to reach me **alessandro.fresneda84@gmail.com**
 
