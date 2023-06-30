@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Dasa & FCamara**
 
-- 🌱 I’m currently learning **NestJS, Microservices, Architectures and more frontend**
+- 🌱 I’m currently learning **NestJS, Microservices, Architectures, and more frontend**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **react, vue, svelte, best practices, patterns and architectures**
+- 💬 Ask me about **react, vue, svelte, best practices, patterns, and architectures**
 
 - 📫 How to reach me **alessandro.fresneda84@gmail.com**
 
@@ -16,8 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alessandro-rodrigo-99a296139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro-rodrigo-99a296139" height="30" width="40" /></a>
-<a href="https://instagram.com/alessandrorodrigo_junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alessandrorodrigo_junior" height="30" width="40" /></a>
-<a href="https://discord.gg/alessandrorodrigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alessandrorodrigo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
