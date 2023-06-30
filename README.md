@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alessandro Rodrigo</h1>
 <h3 align="center">A senior software engineer from Brazil</h3>
 
-- 🔭 I’m currently working on **Dasa & FCamara**
+- 🔭 I’m currently working on **Dasa**
 
 - 🌱 I’m currently learning **NestJS, Microservices, Architectures, and more frontend**
 
