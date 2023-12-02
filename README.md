@@ -21,18 +21,18 @@ A passionate specialist front-end engineer and a technical maestro from São Pau
 ## Languages and Tools
 <!-- Icons for languages and tools -->
 <div>
-  <img src="https://cdn.simpleicons.org/typescript.svg/#fff" alt="Typescript" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs.svg/#fff" alt="NodeJS" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/spring.svg/#fff" alt="Spring" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/jenkins.svg/#fff" alt="Jenkins" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/docker.svg/#fff" alt="Docker" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/amazonaws.svg/#fff" alt="AWS" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/azuredevops.svg/#fff" alt="Azure Devops" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/dynatrace.svg/#fff" alt="Dynatrace" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/postgresql.svg/#fff" alt="PostgreSQL" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/react.svg/#fff" alt="React" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/vuedotjs.svg/#fff" alt="VueJS" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/svelte.svg/#fff" alt="Svelte" width="30" height="30"/>  
+  <img src="https://cdn.simpleicons.org/typescript/#fff" alt="Typescript" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/#fff" alt="NodeJS" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/spring/#fff" alt="Spring" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/jenkins/#fff" alt="Jenkins" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/docker/#fff" alt="Docker" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/#fff" alt="AWS" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/azuredevops/#fff" alt="Azure Devops" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/dynatrace/#fff" alt="Dynatrace" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/postgresql/#fff" alt="PostgreSQL" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/react/#fff" alt="React" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/vuedotjs/#fff" alt="VueJS" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/svelte/#fff" alt="Svelte" width="30" height="30"/>  
 </div>
 
 
