@@ -20,7 +20,7 @@ A passionate specialist front-end engineer and a technical maestro from São Pau
 
 ## Languages and Tools
 <!-- Icons for languages and tools -->
-<div>
+<div style="background:black;">
   <img src="https://simpleicons.org/icons/typescript.svg" alt="Typescript" width="30" height="30" style="filter: invert(100%);"/>
   <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="NodeJS" width="30" height="30" style="filter: invert(100%);"/>
   <img src="https://simpleicons.org/icons/spring.svg" alt="Spring" width="30" height="30" style="filter: invert(100%);"/>
