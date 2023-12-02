@@ -21,18 +21,18 @@ A passionate specialist front-end engineer and a technical maestro from São Pau
 ## Languages and Tools
 <!-- Icons for languages and tools -->
 <div>
-  <img src="https://simpleicons.org/icons/typescript.svg/#fff" alt="Typescript" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/nodedotjs.svg/#fff" alt="NodeJS" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/spring.svg/#fff" alt="Spring" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/jenkins.svg/#fff" alt="Jenkins" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/docker.svg/#fff" alt="Docker" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/amazonaws.svg/#fff" alt="AWS" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/azuredevops.svg/#fff" alt="Azure Devops" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/dynatrace.svg/#fff" alt="Dynatrace" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/postgresql.svg/#fff" alt="PostgreSQL" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/react.svg/#fff" alt="React" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/vuedotjs.svg/#fff" alt="VueJS" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/svelte.svg/#fff" alt="Svelte" width="30" height="30"/>  
+  <img src="https://cdn.simpleicons.org/typescript.svg/#fff" alt="Typescript" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs.svg/#fff" alt="NodeJS" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/spring.svg/#fff" alt="Spring" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/jenkins.svg/#fff" alt="Jenkins" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/docker.svg/#fff" alt="Docker" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/amazonaws.svg/#fff" alt="AWS" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/azuredevops.svg/#fff" alt="Azure Devops" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/dynatrace.svg/#fff" alt="Dynatrace" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/postgresql.svg/#fff" alt="PostgreSQL" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/react.svg/#fff" alt="React" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/vuedotjs.svg/#fff" alt="VueJS" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/svelte.svg/#fff" alt="Svelte" width="30" height="30"/>  
 </div>
 
 
