@@ -21,18 +21,18 @@ A passionate specialist front-end engineer and a technical maestro from São Pau
 ## Languages and Tools
 <!-- Icons for languages and tools -->
 <div>
-  <img src="https://cdn.simpleicons.org/typescript/#fff" alt="Typescript" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/#fff" alt="NodeJS" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/spring/#fff" alt="Spring" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/jenkins/#fff" alt="Jenkins" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/docker/#fff" alt="Docker" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/#fff" alt="AWS" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/azuredevops/#fff" alt="Azure Devops" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/dynatrace/#fff" alt="Dynatrace" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/postgresql/#fff" alt="PostgreSQL" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/react/#fff" alt="React" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/vuedotjs/#fff" alt="VueJS" width="30" height="30"/>
-  <img src="https://cdn.simpleicons.org/svelte/#fff" alt="Svelte" width="30" height="30"/>  
+  <img src="https://cdn.simpleicons.org/typescript/white" alt="Typescript" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/white" alt="NodeJS" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/spring/white" alt="Spring" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/jenkins/white" alt="Jenkins" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/docker/white" alt="Docker" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/white" alt="AWS" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/azuredevops/white" alt="Azure Devops" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/dynatrace/white" alt="Dynatrace" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/postgresql/white" alt="PostgreSQL" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/react/white" alt="React" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/vuedotjs/white" alt="VueJS" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/svelte/white" alt="Svelte" width="30" height="30"/>  
 </div>
 
 
