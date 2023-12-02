@@ -5,7 +5,7 @@ A passionate specialist front-end engineer and a technical leader from São Paul
 
 🚀 I'm on a constant journey of growth, diving deep into advanced concepts like event loops, rendering patterns, and the intricacies under the hood.
 
-📚 Currently sharpening my skills in Typescript, Go, Dart, and embracing the challenge of mastering NodeJS, Go for backend, React Native, and Flutter for mobile apps.
+📚 Currently sharpening my skills in Typescript, Go, Java, and embracing the challenge of mastering NodeJS, Go and Java for backend, React Native, and Flutter for mobile apps.
 
 👨‍🔬 I'm a design patterns aficionado, with a GitHub repository dedicated to GoF patterns and data structures. My architectural prowess spans layered, ports and adapters, clean, hexagonal, MVC, and Event-Driven designs.
 
