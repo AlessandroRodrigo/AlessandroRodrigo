@@ -20,18 +20,20 @@ A passionate specialist front-end engineer and a technical maestro from São Pau
 
 ## Languages and Tools
 <!-- Icons for languages and tools -->
-<img src="https://simpleicons.org/icons/typescript.svg" alt="Typescript" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/nodedotjs.svg" alt="NodeJS" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/spring.svg" alt="Spring" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/jenkins.svg" alt="Jenkins" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/azuredevops.svg" alt="Azure Devops" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/dynatrace.svg" alt="Dynatrace" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/react.svg" alt="React" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/vuedotjs.svg" alt="VueJS" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/svelte.svg" alt="Svelte" width="30" height="30"/>
+<div>
+  <img src="https://simpleicons.org/icons/typescript.svg" alt="Typescript" width="30" height="30" style="filter: invert(100%);"/>
+  <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="NodeJS" width="30" height="30" style="filter: invert(100%);"/>
+  <img src="https://simpleicons.org/icons/spring.svg" alt="Spring" width="30" height="30" style="filter: invert(100%);"/>
+  <img src="https://simpleicons.org/icons/jenkins.svg" alt="Jenkins" width="30" height="30" style="filter: invert(100%);"/>
+  <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="30" height="30" style="filter: invert(100%);"/>
+  <img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" width="30" height="30" style="filter: invert(100%);"/>
+  <img src="https://simpleicons.org/icons/azuredevops.svg" alt="Azure Devops" width="30" height="30" style="filter: invert(100%);"/>
+  <img src="https://simpleicons.org/icons/dynatrace.svg" alt="Dynatrace" width="30" height="30" style="filter: invert(100%);"/>
+  <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="30" height="30" style="filter: invert(100%);"/>
+  <img src="https://simpleicons.org/icons/react.svg" alt="React" width="30" height="30" style="filter: invert(100%);"/>
+  <img src="https://simpleicons.org/icons/vuedotjs.svg" alt="VueJS" width="30" height="30" style="filter: invert(100%);"/>
+  <img src="https://simpleicons.org/icons/svelte.svg" alt="Svelte" width="30" height="30" style="filter: invert(100%);"/>  
+</div>
 
 
 ## My Work
