@@ -1,7 +1,7 @@
 # Hi, I'm Alessandro Rodrigo! 👨‍💻
 
 ## Who I Am
-A passionate specialist front-end engineer and a technical maestro from São Paulo, Brazil, I bring life to software with clean code and optimal performance. With a knack for problem-solving and effective communication, I lead at Dasa by crafting high-quality software that stands the test of time and scale.
+A passionate specialist front-end engineer and a technical leader from São Paulo, Brazil, I bring life to software with clean code and optimal performance. With a knack for problem-solving and effective communication, I lead at Dasa by crafting high-quality software that stands the test of time and scale.
 
 🚀 I'm on a constant journey of growth, diving deep into advanced concepts like event loops, rendering patterns, and the intricacies under the hood.
 
